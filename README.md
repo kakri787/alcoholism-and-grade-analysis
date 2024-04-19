@@ -10,10 +10,16 @@ This is our Mini-Project for SC1015, where we focused on analyzing the relations
 * Lasso Regression
 * Neural Network Embedding
 ## Conclusion
+* Alcohol consumption has a very low negative correlation with academic performance
+* Alcohol consumption cannot be used as a predictor for student's grades
+* Several other factors that contribute to a student's learning environment and background also have low correlation with academic performance
+* The optimal combination of variables in our dataset is unable to predict student's grades
+* Every student is unique and there is no standard baseline of a student's academic ability thus it is difficulty to predict student's grade
 
 ## What did we learn?
+* Handling skewed data
 * Lasso Regression
-* Neural Network Embedding
+* Neural Network Embedding, Keras, Tensorflow
 ## References
 https://en.wikipedia.org/wiki/Lasso_(statistics) <br>
 https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526 <br>
