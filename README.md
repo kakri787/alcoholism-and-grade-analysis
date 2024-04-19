@@ -5,7 +5,9 @@ This is our Mini-Project for SC1015, where we focused on analyzing the relations
 * Are we able to predict the academic performance, measured by final grade, of a student based on the frequency of their alcohol consumption? <br>
 * If not, are there any other factors within the dataset that are better suit for predicting the academic performance?
 ## Contributors
-* @karki787
+* @karki787 (Kar Kit)
+* @kyoniea (Nicholas)
+* @showtimezxc (Aliff
 ## Model Used
 * Lasso Regression
 * Neural Network Embedding
@@ -13,7 +15,9 @@ This is our Mini-Project for SC1015, where we focused on analyzing the relations
 * Alcohol consumption has a very low negative correlation with academic performance
 * Alcohol consumption cannot be used as a predictor for student's grades
 * Several other factors that contribute to a student's learning environment and background also have low correlation with academic performance
-* The optimal combination of variables in our dataset is unable to predict student's grades
+* The optimal combination of variables in our dataset is unable to predict student's grades accurately
+* A student's decision to pursue higher education has the greatest correlation with their grades
+* Neural Network Embedding model was able to predict grades with mean absolute error of around 20% which is still considerably high.
 * Every student is unique and there is no standard baseline of a student's academic ability thus it is difficulty to predict student's grade
 
 ## What did we learn?
