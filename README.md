@@ -17,4 +17,6 @@ This is our Mini-Project for SC1015, where we focused on analyzing the relations
 ## References
 https://en.wikipedia.org/wiki/Lasso_(statistics) <br>
 https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526 <br>
-https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+https://www.kaggle.com/datasets/uciml/student-alcohol-consumption <br>
+https://www.kaggle.com/datasets/whenamancodes/alcohol-effects-on-study
+
