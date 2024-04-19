@@ -8,8 +8,13 @@ This is our Mini-Project for SC1015, where we focused on analyzing the relations
 * @karki787
 ## Model Used
 * Lasso Regression
+* Neural Network Embedding
 ## Conclusion
 
 ## What did we learn?
-
+* Lasso Regression
+* Neural Network Embedding
 ## References
+https://en.wikipedia.org/wiki/Lasso_(statistics)
+https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
+https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
