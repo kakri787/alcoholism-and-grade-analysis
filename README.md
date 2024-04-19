@@ -7,7 +7,7 @@ This is our Mini-Project for SC1015, where we focused on analyzing the relations
 ## Contributors
 * @karki787 (Kar Kit)
 * @kyoniea (Nicholas)
-* @showtimezxc (Aliff
+* @showtimezxc (Aliff)
 ## Model Used
 * Lasso Regression
 * Neural Network Embedding
