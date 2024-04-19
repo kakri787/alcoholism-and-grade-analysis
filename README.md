@@ -5,10 +5,10 @@ This is our Mini-Project for SC1015, where we focused on analyzing the relations
 * Are we able to predict the academic performance, measured by final grade, of a student based on the frequency of their alcohol consumption? <br>
 * If not, are there any other factors within the dataset that are better suit for predicting the academic performance?
 ## Contributors
-* @karki787 (Kar Kit)
-* @kyoniea (Nicholas)
-* @showtimezxc (Aliff)
-## Model Used
+* @karki787 (Kar Kit) - Worked on EDA and Lasso Regression/Neural Network Embedding models
+* @kyoniea (Nicholas) - Worked on EDA and problem formulation, Presentation Slides
+* @showtimezxc (Aliff) - Worked on EDA and research topic, Presentation Slides 
+## Models Used
 * Lasso Regression
 * Neural Network Embedding
 ## Conclusion
