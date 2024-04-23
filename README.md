@@ -1,6 +1,6 @@
 # Alcohol Consumption and Academic Performance Repository
 ## About
-This is our Mini-Project for SC1015, where we focused on analyzing the relationship between alcohol consumption in students and their academic performance. A detailed walkthrough of our project can be viewed from our source code here :
+This is our Mini-Project for SC1015, where we focused on analyzing the relationship between alcohol consumption in students and their academic performance. A detailed walkthrough of our project can be viewed from our source code [here]https://github.com/kakri787/alcoholism-and-grade-analysis/blob/c4ef8e35e4255674938fbc6ec907f8aafa9a685e/Mini%20Project%20Source%20Code.ipynb
 ## Problem Definition
 * Are we able to predict the academic performance, measured by final grade, of a student based on the frequency of their alcohol consumption? <br>
 * If not, are there any other factors within the dataset that are better suit for predicting the academic performance?
